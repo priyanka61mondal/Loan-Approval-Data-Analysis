@@ -23,3 +23,11 @@ This project explores a loan application dataset to identify key factors influen
 
 ## Goal
 The goal of this project is to demonstrate practical data analysis skills using Python and extract meaningful insights from financial data.
+## 🛠 Tools & Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly)
+![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
